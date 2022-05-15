@@ -1,0 +1,56 @@
+[
+    {
+        
+        "name":"JCB Backhoe",
+        "company":"JCB",
+        "category":"backhoes",
+        "image":"https://www.dksh.com/media/65/28/3cx-02-1000_c.jpg",
+        "amount":400,
+        "duration":1
+     },
+     {
+        
+        "name":"caterpillar Backhoe",
+        "company":"caterpillar",
+        "category":"backhoes",
+        "image":"https://e7.pngegg.com/pngimages/836/256/png-clipart-caterpillar-inc-backhoe-loader-heavy-machinery-groupe-mecalac-s-a-types-of-backhoes-company-mode-of-transport.png",
+        "amount":600,
+        "duration":1
+     },
+     {
+        
+        "name":"Bosch Drilling Machine",
+        "company":"Bosch",
+        "category":"drilling machines",
+        "image":"https://m.media-amazon.com/images/I/81pijoL0nKL._SL1500_.jpg",
+        "amount":100,
+        "duration":1
+     },
+     {
+        
+        "name":"Cheston Drilling Machine",
+        "company":"Cheston",
+        "category":"drilling machines",
+        "image":"https://m.media-amazon.com/images/I/7163AfM5bZL._SL1500_.jpg",
+        "amount":"80",
+        "duration":"1"
+     },
+     {
+        
+        "name":"John Deere Grader",
+        "comapany":"Deere",
+        "category":"graders",
+        "image":"https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/04/Motor_Graders_Large.606ddab4f29a2.png?auto=format%2Ccompress",
+        "amount":"1200",
+        "duration":1
+     },
+     {
+        
+        "name":"Caterpillar Motor Grader",
+        "company":"Caterpillar",
+        "category":"graders",
+        "image":"https://img.oemoffhighway.com/files/base/acbm/ooh/image/2020/04/Caterpillar140GCMotorGrader.5e875c8140e63.png?auto=format&h=835&rect=0%2C49%2C1500%2C844&w=1280",
+        "amount":1000,
+        "duration":1
+     }
+]
